@@ -124,16 +124,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mewpk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mewpk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mewpk&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
