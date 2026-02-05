@@ -1,479 +1,139 @@
-<h1 align="center">𝙆𝙈𝙄𝙏𝙇 : 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 💻</h1>
 <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mew+Patsakorn;Computer+Engineering+%40+KMITL;DevOps+%26+Platform+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+</h1>
+
+<p align="center">
   <a href="https://www.facebook.com/mewpkk" target="_blank">
-    <img
-      src="https://www.pngplay.com/wp-content/uploads/3/Blue-Facebook-Logo-Transparent-PNG.png"
-      alt="facebook"
-      width="40"
-      height="40"
-    />
-    : 𝙈𝙚𝙬 𝙋𝙖𝙩𝙨𝙖𝙠𝙤𝙧𝙣 𝙏𝙝𝙤𝙣𝙜-𝙪𝙣
-  </a> 
-</h1>
-<h1 align="center">
-   <a href="https://www.instagram.com/mew_pkk/" target="_blank" >
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
-      alt="instagram"
-      width="40"
-      height="40"
-    />
-     : 𝙢𝙚𝙬_𝙥𝙠𝙠 
-  </a> 
-</h1>
-<h1 align="center">
-   <a href="https://www.linkedin.com/in/mewpk/" target="_blank" >
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"
-      alt="instagram"
-      width="40"
-      height="40"
-    />
-     : 𝙋𝙖𝙩𝙨𝙖𝙠𝙤𝙧𝙣 𝙏𝙝𝙤𝙣𝙜-𝙪𝙣
-  </a> 
-</h1>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/mew_pkk/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mewpk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
 <div align="center">
-  <h1 align="center">🏆 REWARD</h1>
-  <p align="center">Robot-Sillapa 69th 🥇</p>
-  <p align="center">STEM Robotic at KMUTNB 🥉</p>
-  <p align="center">2nd Great Thinker Project 🥇🏆</p>
+  <h2>🏆 Achievements</h2>
+  <img src="https://img.shields.io/badge/🥇_Robot--Sillapa_69th-Gold-FFD700?style=for-the-badge" alt="Robot-Sillapa"/>
+  <img src="https://img.shields.io/badge/🥉_STEM_Robotic_KMUTNB-Bronze-CD7F32?style=for-the-badge" alt="STEM Robotic"/>
+  <img src="https://img.shields.io/badge/🏆_2nd_Great_Thinker-Gold-FFD700?style=for-the-badge" alt="Great Thinker"/>
 </div>
-<br><br>
 
-<h1 align="left">✨ PROGRAMMING LANGUAGE</h1>
-<p>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a
-    href="https://www.typescriptlang.org/"
-    target="_blank"
-    rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="80" height="80"/> 
-  </a>
-</p>
-<h1 align="left">🌐 WEB APPLICATION DEVELOPMENT :</h1>
-<h2 align="left">🔎 FRONT END</h2>
-<p>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-      alt="svelte"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg"
-      alt="antdesign"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.coffeeclass.io/logos/chakra-ui.png"
-      alt="chakraui"
-      width="80"
-      height="80"
-    />
-  </a>
-</p>
-<h2 align="left">👻 BACK END</h2>
-<p>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png"
-      alt="express"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="80"
-      height="80"
-    />
-  </a>
-   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png"
-      alt="nestjs"
-      width="80"
-      height="80"
-    />
-  </a>
-</p>
-<h2 align="left">📊 Database</h2>
-<p>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="80"
-      height="80"
-    />
-  </a>
-</p>
-<h2 align="left">💎 Devops</h2>
-<p>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"
-    width="80"
-    height="80"
-    />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
-      alt="kubernetes"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.gitlab.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
-      alt="gitlab"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
-      alt="azure"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"
-      alt="ansible"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"
-      alt="helm"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://kubespray.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubespray"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
-      alt="terraform"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
-      alt="jenkins"
-      width="80"
-      height="80"
-    />
-</a>
-<a href="https://www.sonarqube.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg"
-      alt="sonarqube"
-      width="80"
-      height="80"
-    />
-</a>
+---
 
+## 💻 Programming Languages
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
 </p>
-<h2 align="left">📍 Framework</h2>
-<p>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a
-    href="https://flask.palletsprojects.com/"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.seekpng.com/png/detail/875-8753366_flask-framework-logo-svg.png"
-      alt="flask"
-      width="80"
-      height="80"
-    />
-  </a>
+
+---
+
+## 💎 DevOps & Platform Engineering (Main Expertise)
+
+### ☸️ Container & Orchestration
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Containerd-575757?style=for-the-badge&logo=containerd&logoColor=white" alt="Containerd"/>
 </p>
-<h2 align="left">📄 Software</h2>
-<p>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="80"
-      height="80"
-    />
-  </a>
+
+### ☁️ Cloud Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
 </p>
-<h2 align="left">📚 Static Site Generators</h2>
-<p>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"
-      alt="nextjs"
-      width="80"
-      height="80"
-    />
-  </a>
+
+### 🔧 CI/CD & Infrastructure as Code
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
 </p>
-<h2 align="left">📈 Other</h2>
-<p>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-      alt="arduino"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="80"
-      height="80"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="80"
-      height="80"
-    />
-  </a>
+
+### 📊 Monitoring & Security
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="Vault"/>
+</p>
+
+### 🔄 Data Pipeline
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Airflow-Expert-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+</p>
+
+---
+
+## 🌐 Full-Stack Development
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind-Expert-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/>
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design"/>
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-Expert-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+---
+
+## 🛠️ Tools & Others
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mewpk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mewpk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mewpk&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
