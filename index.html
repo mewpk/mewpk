@@ -3,134 +3,475 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Portfolio of Patsakorn Thong-un, a passionate DevSecOps Engineer and Full-Stack Developer.">
-  <title>Patsakorn Thong-un | Portfolio</title>
+  <meta name="description" content="Portfolio of Patsakorn Thong-un - DevOps Engineer & Full-Stack Developer">
+  <title>Mew Patsakorn | Portfolio</title>
 
-  <!-- External CSS and Fonts -->
-  <link rel="stylesheet" href="styles.css">
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" rel="stylesheet">
-  <link rel="icon" href="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" type="image/png">
 
-  <!-- GSAP for animations -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👨‍💻</text></svg>">
 
-  <!-- Particles.js -->
-  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+  <!-- CSS -->
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- GSAP -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js" defer></script>
 </head>
 
-<body id="top">
-  <!-- Particle Background -->
-  <div id="particles-js"></div>
-
-  <!-- Content Wrapper -->
-  <div class="content-wrapper">
-    <div class="hero-content">
-      <h1>Hi, I'm <span class="highlight">Patsakorn Thong-un</span> 👋</h1>
-      <p>Aspiring DevSecOps Engineer | Full-Stack Developer 💻</p>
-      <div class="socials">
-        <a href="https://github.com/mewpk" target="_blank"><i class="fab fa-github"></i></a><a href="mailto:psk.mewpk@gmail.com" target="_blank"><i class="fas fa-envelope"></i></a>
-      </div>
+<body>
+  <!-- Animated Background -->
+  <div class="bg-animation">
+    <div class="bg-gradient"></div>
+    <div class="bg-grid"></div>
+    <div class="floating-shapes">
+      <div class="shape shape-1"></div>
+      <div class="shape shape-2"></div>
+      <div class="shape shape-3"></div>
+      <div class="shape shape-4"></div>
+      <div class="shape shape-5"></div>
     </div>
-    
-    <!-- Skills Section -->
-    <section id="skills" class="section">
-      <h2><i class="fas fa-tools"></i> Technical Skills</h2>
-      <div class="skills-grid">
-        <div class="card">
-          <h3><i class="fas fa-code"></i> Programming Languages</h3>
-          <div class="icons">
-            <i class="devicon-c-plain"></i>
-            <i class="devicon-cplusplus-plain"></i>
-            <i class="devicon-csharp-plain"></i>
-            <i class="devicon-java-plain"></i>
-            <i class="devicon-javascript-plain"></i>
-            <i class="devicon-python-plain"></i>
-            <i class="devicon-go-plain"></i>
-          </div>
-        </div>
-
-        <div class="card">
-          <h3><i class="fab fa-react"></i> Frontend Development</h3>
-          <div class="icons">
-            <i class="devicon-html5-plain"></i>
-            <i class="devicon-css3-plain"></i>
-            <i class="devicon-bootstrap-plain"></i>
-            <i class="devicon-react-original"></i>
-            <i class="devicon-redux-original"></i>
-            <i class="devicon-tailwindcss-plain"></i>
-            <i class="devicon-nextjs-original"></i>
-          </div>
-        </div>
-
-        <div class="card">
-          <h3><i class="fas fa-server"></i> Backend Development</h3>
-          <div class="icons">
-            <i class="devicon-nodejs-plain"></i>
-            <i class="devicon-nestjs-plain"></i>
-            <i class="devicon-spring-plain"></i>
-            <i class="devicon-nginx-original"></i>
-          </div>
-        </div>
-
-        <div class="card">
-          <h3><i class="fas fa-cloud"></i> Cloud & DevOps</h3>
-          <div class="icons">
-            <i class="devicon-amazonwebservices-original"></i>
-            <i class="devicon-googlecloud-plain"></i>
-            <i class="devicon-docker-plain"></i>
-            <i class="devicon-kubernetes-plain"></i>
-            <i class="devicon-terraform-plain"></i>
-            <i class="devicon-jenkins-plain"></i>
-          </div>
-        </div>
-
-        <div class="card">
-          <h3><i class="fas fa-database"></i> Databases</h3>
-          <div class="icons">
-            <i class="devicon-mysql-plain"></i>
-            <i class="devicon-mongodb-plain"></i>
-            <i class="devicon-postgresql-plain"></i>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Career Section -->
-    <section id="career" class="section">
-      <h2><i class="fas fa-briefcase"></i> Career & Experience</h2>
-      <div class="career-grid">
-        <div class="card">
-          <h3>DevOps Engineer - Cloud NC Co., Ltd. (Apr 2024 - Present)</h3>
-          <p><i class="fas fa-check-circle"></i> Managed cloud deployments using Kubernetes and automated pipelines with Ansible and Terraform.</p>
-        </div>
-
-        <div class="card">
-          <h3>Full-Stack Developer - Codekit Innovation Co., Ltd. (Nov 2023 - Jun 2024)</h3>
-          <p><i class="fas fa-check-circle"></i> Developed video streaming platforms using Next.js, Redux, and Koa.js with agile practices.</p>
-        </div>
-
-        <div class="card">
-          <h3>Full-Stack Developer - Rudimentech Co., Ltd. (Dec 2022 - May 2023)</h3>
-          <p><i class="fas fa-check-circle"></i> Developed PDF management tools using React, TypeScript, and Spring Boot with JWT security.</p>
-        </div>
-
-        <div class="card">
-          <h3>AI Project - Tomato Leaf Disease Detection (Oct 2023)</h3>
-          <p><i class="fas fa-check-circle"></i> Built a CNN model with TensorFlow to detect plant diseases with Flask backend and Next.js frontend.</p>
-        </div>
-      </div>
-    </section>
   </div>
 
-  <!-- Back to Top Button -->
-  <a href="#top" class="back-to-top"><i class="fas fa-chevron-up"></i></a>
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="nav-brand">
+      <span class="brand-icon">M</span>
+      <span class="brand-text">Mew.dev</span>
+    </div>
+    <div class="nav-links">
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#experience">Experience</a>
+      <a href="#contact">Contact</a>
+    </div>
+    <button class="nav-toggle" aria-label="Toggle navigation">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </nav>
+
+  <!-- Hero Section -->
+  <section id="hero" class="hero">
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="badge-dot"></span>
+        Available for opportunities
+      </div>
+      <h1 class="hero-title">
+        Hi, I'm <span class="gradient-text">Mew</span>
+        <span class="wave">👋</span>
+      </h1>
+      <h2 class="hero-subtitle">
+        <span class="typing-text"></span>
+        <span class="cursor">|</span>
+      </h2>
+      <p class="hero-description">
+        DevOps Engineer & Full-Stack Developer passionate about building scalable infrastructure and beautiful applications.
+      </p>
+      <div class="hero-cta">
+        <a href="#contact" class="btn btn-primary">
+          <i class="fas fa-paper-plane"></i>
+          Get in Touch
+        </a>
+        <a href="#experience" class="btn btn-secondary">
+          <i class="fas fa-briefcase"></i>
+          View Work
+        </a>
+      </div>
+      <div class="hero-socials">
+        <a href="https://github.com/mewpk" target="_blank" class="social-link" aria-label="GitHub">
+          <i class="fab fa-github"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/mewpk/" target="_blank" class="social-link" aria-label="LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+        <a href="https://www.facebook.com/mewpkk" target="_blank" class="social-link" aria-label="Facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+        <a href="https://www.instagram.com/mew_pkk/" target="_blank" class="social-link" aria-label="Instagram">
+          <i class="fab fa-instagram"></i>
+        </a>
+        <a href="mailto:psk.mewpk@gmail.com" class="social-link" aria-label="Email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </div>
+    </div>
+    <div class="scroll-indicator">
+      <div class="mouse">
+        <div class="wheel"></div>
+      </div>
+      <span>Scroll Down</span>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">About Me</span>
+        <h2 class="section-title">Who I Am</h2>
+      </div>
+      <div class="about-content">
+        <div class="about-card glass-card">
+          <div class="about-icon">
+            <i class="fas fa-graduation-cap"></i>
+          </div>
+          <h3>Education</h3>
+          <p class="highlight-text">Computer Engineering</p>
+          <p>King Mongkut's Institute of Technology Ladkrabang (KMITL)</p>
+          <span class="badge">Expected 2026</span>
+        </div>
+        <div class="about-card glass-card">
+          <div class="about-icon">
+            <i class="fas fa-rocket"></i>
+          </div>
+          <h3>Experience</h3>
+          <p class="highlight-text">4+ Years</p>
+          <p>Building production-grade systems and leading DevOps initiatives</p>
+          <span class="badge">Professional</span>
+        </div>
+        <div class="about-card glass-card">
+          <div class="about-icon">
+            <i class="fas fa-trophy"></i>
+          </div>
+          <h3>Achievements</h3>
+          <p class="highlight-text">Multiple Awards</p>
+          <p>Robot-Sillapa 🥇 | STEM Robotic 🥉 | Great Thinker 🏆</p>
+          <span class="badge">Award Winner</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills" class="section section-dark">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">My Skills</span>
+        <h2 class="section-title">Technical Expertise</h2>
+      </div>
+
+      <div class="skills-container">
+        <!-- DevOps -->
+        <div class="skill-category glass-card">
+          <div class="skill-header">
+            <div class="skill-icon devops">
+              <i class="fas fa-infinity"></i>
+            </div>
+            <div>
+              <h3>DevOps & Cloud</h3>
+              <span class="skill-level">Main Expertise</span>
+            </div>
+          </div>
+          <div class="skill-tags">
+            <span class="tag"><i class="devicon-kubernetes-plain"></i> Kubernetes</span>
+            <span class="tag"><i class="devicon-docker-plain"></i> Docker</span>
+            <span class="tag"><i class="devicon-terraform-plain"></i> Terraform</span>
+            <span class="tag"><i class="devicon-ansible-plain"></i> Ansible</span>
+            <span class="tag"><i class="devicon-amazonwebservices-original"></i> AWS</span>
+            <span class="tag"><i class="devicon-azure-plain"></i> Azure</span>
+            <span class="tag"><i class="devicon-googlecloud-plain"></i> GCP</span>
+            <span class="tag"><i class="devicon-jenkins-plain"></i> Jenkins</span>
+            <span class="tag"><i class="devicon-github-original"></i> GitHub Actions</span>
+            <span class="tag"><i class="devicon-prometheus-original"></i> Prometheus</span>
+            <span class="tag"><i class="devicon-grafana-original"></i> Grafana</span>
+            <span class="tag"><i class="fas fa-wind"></i> Airflow</span>
+          </div>
+        </div>
+
+        <!-- Languages -->
+        <div class="skill-category glass-card">
+          <div class="skill-header">
+            <div class="skill-icon languages">
+              <i class="fas fa-code"></i>
+            </div>
+            <div>
+              <h3>Languages</h3>
+              <span class="skill-level">Expert Level</span>
+            </div>
+          </div>
+          <div class="skill-tags">
+            <span class="tag"><i class="devicon-python-plain"></i> Python</span>
+            <span class="tag"><i class="devicon-javascript-plain"></i> JavaScript</span>
+            <span class="tag"><i class="devicon-typescript-plain"></i> TypeScript</span>
+            <span class="tag"><i class="devicon-go-plain"></i> Go</span>
+            <span class="tag"><i class="devicon-java-plain"></i> Java</span>
+            <span class="tag"><i class="devicon-c-plain"></i> C</span>
+            <span class="tag"><i class="devicon-cplusplus-plain"></i> C++</span>
+            <span class="tag"><i class="devicon-csharp-plain"></i> C#</span>
+          </div>
+        </div>
+
+        <!-- Frontend -->
+        <div class="skill-category glass-card">
+          <div class="skill-header">
+            <div class="skill-icon frontend">
+              <i class="fas fa-palette"></i>
+            </div>
+            <div>
+              <h3>Frontend</h3>
+              <span class="skill-level">Expert Level</span>
+            </div>
+          </div>
+          <div class="skill-tags">
+            <span class="tag"><i class="devicon-react-original"></i> React</span>
+            <span class="tag"><i class="devicon-nextjs-original"></i> Next.js</span>
+            <span class="tag"><i class="devicon-tailwindcss-plain"></i> Tailwind</span>
+            <span class="tag"><i class="devicon-materialui-plain"></i> Material UI</span>
+            <span class="tag"><i class="fas fa-bolt"></i> Chakra UI</span>
+            <span class="tag"><i class="devicon-antdesign-plain"></i> Ant Design</span>
+            <span class="tag"><i class="devicon-redux-original"></i> Redux</span>
+          </div>
+        </div>
+
+        <!-- Backend -->
+        <div class="skill-category glass-card">
+          <div class="skill-header">
+            <div class="skill-icon backend">
+              <i class="fas fa-server"></i>
+            </div>
+            <div>
+              <h3>Backend</h3>
+              <span class="skill-level">Expert Level</span>
+            </div>
+          </div>
+          <div class="skill-tags">
+            <span class="tag"><i class="devicon-express-original"></i> Express.js</span>
+            <span class="tag"><i class="devicon-nestjs-plain"></i> NestJS</span>
+            <span class="tag"><i class="devicon-spring-plain"></i> Spring Boot</span>
+            <span class="tag"><i class="devicon-dotnetcore-plain"></i> .NET</span>
+            <span class="tag"><i class="devicon-nodejs-plain"></i> Node.js</span>
+            <span class="tag"><i class="devicon-nginx-original"></i> Nginx</span>
+          </div>
+        </div>
+
+        <!-- Database -->
+        <div class="skill-category glass-card">
+          <div class="skill-header">
+            <div class="skill-icon database">
+              <i class="fas fa-database"></i>
+            </div>
+            <div>
+              <h3>Database</h3>
+              <span class="skill-level">Advanced</span>
+            </div>
+          </div>
+          <div class="skill-tags">
+            <span class="tag"><i class="devicon-postgresql-plain"></i> PostgreSQL</span>
+            <span class="tag"><i class="devicon-mysql-plain"></i> MySQL</span>
+            <span class="tag"><i class="devicon-mongodb-plain"></i> MongoDB</span>
+          </div>
+        </div>
+
+        <!-- Security -->
+        <div class="skill-category glass-card">
+          <div class="skill-header">
+            <div class="skill-icon security">
+              <i class="fas fa-shield-alt"></i>
+            </div>
+            <div>
+              <h3>Security</h3>
+              <span class="skill-level">DevSecOps</span>
+            </div>
+          </div>
+          <div class="skill-tags">
+            <span class="tag"><i class="fas fa-lock"></i> HashiCorp Vault</span>
+            <span class="tag"><i class="devicon-sonarqube-plain"></i> SonarQube</span>
+            <span class="tag"><i class="fas fa-bug"></i> Pentest</span>
+            <span class="tag"><i class="fas fa-search"></i> Vuln Assessment</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Experience Section -->
+  <section id="experience" class="section">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">My Journey</span>
+        <h2 class="section-title">Work Experience</h2>
+      </div>
+
+      <div class="timeline">
+        <div class="timeline-item">
+          <div class="timeline-marker">
+            <i class="fas fa-cloud"></i>
+          </div>
+          <div class="timeline-content glass-card">
+            <div class="timeline-header">
+              <span class="timeline-date">Apr 2024 - Present</span>
+              <span class="timeline-badge current">Current</span>
+            </div>
+            <h3>DevOps Engineer</h3>
+            <h4>Cloud NC Co., Ltd.</h4>
+            <ul class="timeline-list">
+              <li>Managed Kubernetes clusters with 100+ VMs achieving 99.9% uptime</li>
+              <li>Automated infrastructure with Terraform and Ansible</li>
+              <li>Built CI/CD pipelines with GitHub Actions and Jenkins</li>
+              <li>Implemented monitoring with Prometheus and Grafana</li>
+            </ul>
+            <div class="timeline-tags">
+              <span>Kubernetes</span>
+              <span>Terraform</span>
+              <span>AWS</span>
+              <span>DevSecOps</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-marker">
+            <i class="fas fa-video"></i>
+          </div>
+          <div class="timeline-content glass-card">
+            <div class="timeline-header">
+              <span class="timeline-date">Nov 2023 - Jun 2024</span>
+            </div>
+            <h3>Full-Stack Developer</h3>
+            <h4>Codekit Innovation Co., Ltd.</h4>
+            <ul class="timeline-list">
+              <li>Developed video streaming platform with Next.js and Redux</li>
+              <li>Built AI-powered copyright detection system</li>
+              <li>Implemented CMS for content management</li>
+              <li>Worked in Agile/Scrum environment</li>
+            </ul>
+            <div class="timeline-tags">
+              <span>Next.js</span>
+              <span>Redux</span>
+              <span>Node.js</span>
+              <span>AI/ML</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-marker">
+            <i class="fas fa-file-pdf"></i>
+          </div>
+          <div class="timeline-content glass-card">
+            <div class="timeline-header">
+              <span class="timeline-date">Dec 2022 - May 2023</span>
+            </div>
+            <h3>Full-Stack Developer</h3>
+            <h4>Rudimentech Co., Ltd.</h4>
+            <ul class="timeline-list">
+              <li>Built PDF management tools with React and TypeScript</li>
+              <li>Developed backend services with Spring Boot</li>
+              <li>Implemented JWT authentication and security</li>
+            </ul>
+            <div class="timeline-tags">
+              <span>React</span>
+              <span>TypeScript</span>
+              <span>Spring Boot</span>
+              <span>JWT</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Certifications Section -->
+  <section id="certifications" class="section section-dark">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">Credentials</span>
+        <h2 class="section-title">Certifications</h2>
+      </div>
+      <div class="cert-grid">
+        <div class="cert-card glass-card">
+          <div class="cert-image">
+            <img src="assets/Cert Cybersecurity Red Team.jpg" alt="Cybersecurity Red Team Certificate" loading="lazy">
+          </div>
+          <div class="cert-info">
+            <h3>Cybersecurity Red Team</h3>
+            <p>Security Assessment & Penetration Testing</p>
+          </div>
+        </div>
+        <div class="cert-card glass-card">
+          <div class="cert-image">
+            <img src="assets/Cert Full Stack.png" alt="Full Stack Developer Certificate" loading="lazy">
+          </div>
+          <div class="cert-info">
+            <h3>Full Stack Development</h3>
+            <p>Complete Web Development Certification</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="section">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">Get In Touch</span>
+        <h2 class="section-title">Let's Work Together</h2>
+      </div>
+      <div class="contact-content">
+        <p class="contact-description">
+          I'm always interested in hearing about new projects and opportunities.
+          Feel free to reach out!
+        </p>
+        <div class="contact-cards">
+          <a href="mailto:psk.mewpk@gmail.com" class="contact-card glass-card">
+            <div class="contact-icon">
+              <i class="fas fa-envelope"></i>
+            </div>
+            <h3>Email</h3>
+            <p>psk.mewpk@gmail.com</p>
+          </a>
+          <a href="https://www.linkedin.com/in/mewpk/" target="_blank" class="contact-card glass-card">
+            <div class="contact-icon">
+              <i class="fab fa-linkedin"></i>
+            </div>
+            <h3>LinkedIn</h3>
+            <p>Patsakorn Thong-un</p>
+          </a>
+          <a href="https://github.com/mewpk" target="_blank" class="contact-card glass-card">
+            <div class="contact-icon">
+              <i class="fab fa-github"></i>
+            </div>
+            <h3>GitHub</h3>
+            <p>@mewpk</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <!-- Footer -->
-  <footer>
-    <p>&copy; 2024 Patsakorn Thong-un | All Rights Reserved</p>
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-brand">
+          <span class="brand-icon">M</span>
+          <span>Mew.dev</span>
+        </div>
+        <p>&copy; 2024 Patsakorn Thong-un. Built with passion.</p>
+        <div class="footer-socials">
+          <a href="https://github.com/mewpk" target="_blank"><i class="fab fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/mewpk/" target="_blank"><i class="fab fa-linkedin"></i></a>
+          <a href="https://www.facebook.com/mewpkk" target="_blank"><i class="fab fa-facebook"></i></a>
+        </div>
+      </div>
+    </div>
   </footer>
+
+  <!-- Back to Top -->
+  <a href="#hero" class="back-to-top" aria-label="Back to top">
+    <i class="fas fa-arrow-up"></i>
+  </a>
 
   <script src="script.js"></script>
 </body>
