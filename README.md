@@ -23,6 +23,12 @@
   <img src="https://img.shields.io/badge/🏆_2nd_Great_Thinker-Gold-FFD700?style=for-the-badge" alt="Great Thinker"/>
 </div>
 
+<div align="center">
+  <h2>📜 Certifications</h2>
+  <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA"/>
+  <img src="https://img.shields.io/badge/CKAD-Certified_Kubernetes_Application_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKAD"/>
+</div>
+
 ---
 
 ## 💻 Programming Languages
